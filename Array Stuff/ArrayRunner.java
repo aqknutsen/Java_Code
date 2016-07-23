@@ -1,5 +1,5 @@
 /* -----------------------------------------------------------------------------
- * File Name: Lab09.java
+ * File Name: ArrayRunner.java
  * Author: Alec Knutsen, a991k109@ku.edu
  * Assignment:   EECS-168/169 Lab09
  * Description:  This class lets the user create a two dimensional array. 
@@ -10,7 +10,7 @@
  * Date: November 3, 2014
  ---------------------------------------------------------------------------- */
 import java.util.Scanner;
-public class Lab09 {
+public class ArrayRunner {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in); // Create a new instance of the scanner class
 		ArrayHelper array_instance = new ArrayHelper(); // Create a new instance of the array helper class
